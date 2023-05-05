@@ -10,9 +10,13 @@ Currently, my studies within the MGIS Program are concentrated on web design, sp
 
 # Areas of Focus 
 
-| Geographical Information Science (GIS) | Data Science | Graphic & Web Design | Other |
-| --- | --- |  --- |  --- |
-| `ArcGIS Pro & Desktop`, `ArcMap`, `ArcGIS Online`, `QGIS` | `Python`, `SQL`, `JavaScript` | `HTML`, `CSS` | `GitHub` `Google Cloud Platform` |
+Geographical Information Science (GIS): `ArcGIS Pro & Desktop`, `ArcMap`, `ArcGIS Online`, `QGIS`
+Data Science: `Python`, `SQL`, `JavaScript`
+Graphic & Web Design: `HTML`, `CSS`, `Adobe Photoshop`, `Adobe Illustrator`, `GIMP`
+Other: `GitHub`, `Google Cloud Platform`
+
+### Stack
+`Python`, `SQL`, `JavaScript`, `HTML`, `CSS`, `Google Cloud Platform`, `Flask`, `Postgres`, `scikit-learn`, `sci-py`, `numpy`, `pandas`, `geopandas`, `docker`
 
 
 # Projects 
