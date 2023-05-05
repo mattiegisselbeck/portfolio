@@ -24,5 +24,7 @@ Currently, my studies within the MGIS Program are concentrated on web design, sp
 #### Python
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattiegisselbeck&repo=puerto-rico-forest-transition)](https://github.com/mattiegisselbeck/puerto-rico-forest-transition)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattiegisselbeck&repo=tcma-environmental-justice-prediction)](https://github.com/mattiegisselbeck/tcma-environmental-justice-prediction)
+
 #### SQL
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattiegisselbeck&repo=msp-environmental-justice-concern)](https://github.com/mattiegisselbeck/msp-environmental-justice-concern)
